@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JujubaSalgada
-- 👀 I’m_interested_in = [python, java]
-- 🌱 I’m_currently_learning = java
+- 👀 I’m_interested_in = [python, javaScript, c#]
+- 🌱 I’m_currently_learning = c#
 - 💞️ I’m_looking_to_collaborate_on ...
 - 📫 How_to_reach_me =  {'Gmail': 'queias2909@gmail.com'}
 
